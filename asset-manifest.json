@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/js/main.07d3183d.js",
+    "main.js": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/js/main.66e6f5cd.js",
     "index.html": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/index.html",
     "main.7acaea2f.css.map": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/js/main.07d3183d.js.map"
+    "main.66e6f5cd.js.map": "/VladyslavLiapko.github.io/goit-react-hw-06-phonebook/static/js/main.66e6f5cd.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.66e6f5cd.js"
   ]
 }
